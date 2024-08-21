@@ -1,4 +1,4 @@
-# Flutter-Coinbase-UI-Clone
+# Flutter-Coinbase-UI-Clone 
 
 ![Coinbase UI App](https://github.com/user-attachments/assets/f7607463-efb7-4c74-bfaa-ceb4ceda1c4d)
 
